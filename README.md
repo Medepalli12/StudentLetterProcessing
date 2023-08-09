@@ -1,4 +1,3 @@
-DOCUMENTATION
 **Introduction**
 
 In the rapidly evolving landscape of technology, the ability to create dynamic and efficient console applications is a prized skill. The project is a console application using .NET Framework and C#. This report encapsulates the essence of our project, providing you with insights and how the project was developed.
