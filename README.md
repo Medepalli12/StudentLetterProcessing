@@ -55,7 +55,7 @@ While the project's progression was marked by significant achievements, it also 
 
 ![image](https://github.com/Medepalli12/StudentLetterProcessing/assets/134563904/4754b2da-db0a-4eed-a92b-2006f1a7ccd9)
 
-![image](https://github.com/Medepalli12/StudentLetterProcessing/assets/134563904/7a738798-2573-4d08-8e6c-41ad46c31561)
+![image](https://github.com/Medepalli12/StudentLetterProcessing/assets/134563904/6ee1c7c3-d200-452c-b265-906a59f792ed)
 
 **Conclusion:**
 
